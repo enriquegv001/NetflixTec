@@ -27,7 +27,7 @@ int main(){
   // Creación de menu----------------------------------------
   bool menu = true;
   int n;
-  cout<<"\n\n============= Bienvenido a NetflixTec ============="<<endl;
+  cout<<"\n\n============= Bienvenido a NetflixTec =============="<<endl;
   while (menu){ 
     cout<<"\nMenú:\n----------------------------------------------------\n1.\tMostrar los videos en general "<< endl;
     cout << "2.\tMostrar las series con una calificación determinada" << endl;
